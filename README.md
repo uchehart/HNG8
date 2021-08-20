@@ -1,5 +1,7 @@
 # hng88
 
+This is the link to the GIF https://github.com/uchehart/HNG8/blob/appGif/Hart-HNG8.gif
+
 A new Flutter project.
 
 ## Getting Started
